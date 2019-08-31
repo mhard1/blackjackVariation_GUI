@@ -6,6 +6,7 @@ The game goes for 5 rounds.
 Had some previous bug issues with the Ace scoring, so feel free to post any issues if you encounter that.
 
 You need to have the image files in the same folder as the python script to run the program.
+Some image files are extra for optional development adding in card backs / design features.
 
 My top score is 133 so far! See if you can beat it ;-)
 
